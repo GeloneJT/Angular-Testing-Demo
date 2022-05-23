@@ -1,5 +1,5 @@
 
-export function compute(number) {
+export function compute(number: number) {
   if (number < 0)
     return 0; 
 
